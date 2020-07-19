@@ -18,7 +18,7 @@ class AboutMe extends Component {
                 MongoDB|
               </p>
               <div className="social-link">
-                {/* Linkedin */}
+                {/* Linkedin test */}
                 <a
                   href="http://google.com"
                   rel="noopener noreferrer"
